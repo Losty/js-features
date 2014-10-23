@@ -1,2 +1,2 @@
-javascript-features
+js-features
 ===================
